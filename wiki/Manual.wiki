@@ -12,6 +12,8 @@ Add your content here.
   * a short read aligner (e.g.: bwa)
   * samtools
   * Mauve (http://asap.ahabs.wisc.edu/mauve/)
+  * MySQL 5.1 or higher
+  * CGI
 
 = Details =
 
