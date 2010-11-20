@@ -10,19 +10,9 @@ Add your content here.
   * Perl 5.8 or higher
   * Bioperl from http://www.bioperl.org
   * R 2.7 or higher
-  * a short read aligner (e.g.: bwa)
-  * samtools
-  * Mauve (http://asap.ahabs.wisc.edu/mauve/)
   * MySQL 5.1 or higher
   * CGI
   * Apache web server
   * Archive::Tar.pm from CPAN (http://search.cpan.org/~bingos/Archive-Tar-1.68/lib/Archive/Tar.pm)
   * DBI.pm from CPAN (http://search.cpan.org/~timb/DBI-1.615/DBI.pm)
   * DBD::mysql.pm from CPAN (http://search.cpan.org/~capttofu/DBD-mysql-4.018/lib/DBD/mysql.pm)
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
