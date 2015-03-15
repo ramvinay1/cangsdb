@@ -1,0 +1,16 @@
+# Introduction #
+
+Add your content here.
+
+
+# Requirements #
+
+  * Perl 5.8 or higher
+  * Bioperl from http://www.bioperl.org
+  * R 2.7 or higher
+  * MySQL 5.1 or higher
+  * CGI
+  * Apache web server
+  * Archive::Tar.pm from CPAN (http://search.cpan.org/~bingos/Archive-Tar-1.68/lib/Archive/Tar.pm)
+  * DBI.pm from CPAN (http://search.cpan.org/~timb/DBI-1.615/DBI.pm)
+  * DBD::mysql.pm from CPAN (http://search.cpan.org/~capttofu/DBD-mysql-4.018/lib/DBD/mysql.pm)
